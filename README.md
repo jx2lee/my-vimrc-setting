@@ -4,7 +4,7 @@ just backup.
 # .vimrc
 
 ```
-i" set the runtime path to include Vundle and initialize
+" set the runtime path to include Vundle and initialize
 " All of your Plugins must be added before the following line
 set rtp+=~/.vim/bundle/Vundle.vim
 call vundle#begin()
