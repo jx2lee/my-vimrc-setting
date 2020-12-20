@@ -1,9 +1,3 @@
-# Vimrc setting for jx2lee
-just backup.
-
-# .vimrc
-
-```
 " set the runtime path to include Vundle and initialize
 " All of your Plugins must be added before the following line
 set rtp+=~/.vim/bundle/Vundle.vim
@@ -141,12 +135,3 @@ augroup END
 
 " for Python
 " for Java
-```
-
-# After setting the `.vimrc`...
-
-* Run `cp -r .vimrc ~/.vimrc`
-* Run `vim +PluginInstall`
-
----
-*made by jaejun.lee*
