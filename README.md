@@ -6,7 +6,6 @@ just backup.
 ```
 " set the runtime path to include Vundle and initialize
 " All of your Plugins must be added before the following line
-set rtp+=~/.vim/bundle/Vundle.vim
 call plug#begin('~/.vim/plugged')
 Plug 'junegunn/vim-easy-align'
 Plug 'SirVer/ultisnips'
